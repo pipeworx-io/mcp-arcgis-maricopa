@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/arcgis-maricopa",
   "title": "Arcgis Maricopa",
   "description": "Maricopa County GIS — Maricopa County (Phoenix), Arizona open geospatial data (ArcGIS).",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/arcgis-maricopa",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-arcgis-maricopa",
