@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-maricopa",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Maricopa County GIS — Maricopa County (Phoenix), Arizona open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-9192adf406c0fb056aac6f9416da140d81fd17078e79bca4964ec1797285ecb8",
-    "sourceCommit": "454041882179fae560c06e770b6b7a2f33970015"
+    "sourceHash": "v1-e8a3ed546439a3372a4184af9953f4c48aca2c9d60472ff2f0a00502ea5f5941",
+    "sourceCommit": "54bf7d1c06a0775508a65d0c388dd10ba75174c3"
   }
 }
